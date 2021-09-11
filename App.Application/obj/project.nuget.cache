@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uGXgRYvTzCrrT9fi7f+26bTh4Mvh4vtIhQmQxp5GQk9tcYbaahVAcs3qp1ymhphyutz9d9azJRjaF40WeRqffg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tiago\\Desktop\\Appweb\\App\\App.Application\\App.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
